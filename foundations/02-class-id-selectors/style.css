@@ -1,0 +1,21 @@
+.oddClass{
+    background-color: #ff0066;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blue-text{
+    color:rgba(0, 0, 255, 0.897);
+    font-size: 36px;
+}
+
+.third-el{
+    font-size: 24px;
+}
+
+#fourth-el{
+    /*a light green background, a font size of 24px, and bold */
+    background-color: rgba(45, 219, 45, 0.87);
+    font-size: 24px;
+    font-weight:700;
+
+}
